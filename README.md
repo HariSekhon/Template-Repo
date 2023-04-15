@@ -1,4 +1,4 @@
-# Hari Sekhon - Diagrams as Code
+# Hari Sekhon - Template Repo
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
@@ -28,7 +28,7 @@
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 TODO: Replace Azure DevOps Pipeline ID here
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FTemplate-Repo?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=14&branchName=master)
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FTemplate-Repo?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=15&branchName=master)
 [![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/HariSekhon/Template-Repo?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/Template-Repo/pipelines)
 [![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/HariSekhon/Template-Repo/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/HariSekhon/Template-Repo/addon/pipelines/home#!/)
 
