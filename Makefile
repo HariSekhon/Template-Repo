@@ -54,7 +54,8 @@ build: init
 	if [ -z "$(CPANM)" ]; then make; exit $$?; fi
 	$(MAKE) system-packages-python
 
-	$(MAKE) python
+	# TODO: uncomment if adding requirements.txt with pip modules
+	#$(MAKE) python
 
 .PHONY: init
 init:
