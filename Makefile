@@ -69,7 +69,7 @@ install: build
 
 .PHONY: python
 python:
-	@PIP=$(PIP) PIP_OPTS="--ignore-installed" bash-tools/python_pip_install_if_absent.sh requirements.txt
+	@PIP=$(PIP) PIP_OPTS="--ignore-installed" bash-tools/python/python_pip_install_if_absent.sh requirements.txt
 	@echo
 	$(MAKE) pycompile
 	@echo
@@ -77,7 +77,7 @@ python:
 
 .PHONY: test
 test:
-	bash-tools/check_all.sh
+	bash-tools/checks/check_all.sh
 
 .PHONY: clean
 clean:
