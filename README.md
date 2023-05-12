@@ -36,9 +36,10 @@ TODO: Replace Azure DevOps Pipeline ID here
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Template-Repo)
 
 [![Validation](https://github.com/HariSekhon/Template-Repo/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml)
 
 
 PUT CONTENT HERE
