@@ -37,6 +37,7 @@ TODO: Replace Azure DevOps Pipeline ID here
 
 [![Validation](https://github.com/HariSekhon/Template-Repo/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Template-Repo/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep-cloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml)
