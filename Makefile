@@ -36,7 +36,7 @@ ifneq ("$(wildcard bash-tools/Makefile.in)", "")
 	include bash-tools/Makefile.in
 endif
 
-Template-Repo := HariSekhon/Template-Repo
+REPO := HariSekhon/Template-Repo
 
 CODE_FILES := $(shell git ls-files | grep -E -e '\.sh$$' -e '\.py$$' | sort)
 
