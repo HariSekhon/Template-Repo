@@ -36,6 +36,8 @@ if uname -s | grep -q Darwin; then
     }
 fi
 
+sed -i "s/- Template Repo$/- $repo/" README.md
+
 sed -i "s/Template-Repo/$repo/gi" \
     README.md \
     Makefile \
