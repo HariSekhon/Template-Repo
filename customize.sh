@@ -24,7 +24,7 @@ srcdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$srcdir"
 
 if [ $# -ne 1 ]; then
-    usage "usage: <new_repo_name>"
+    echo "usage: <new_repo_name>"
     exit 3
 fi
 
@@ -37,7 +37,7 @@ if uname -s | grep -q Darwin; then
 fi
 
 sed -i "s/Template-Repo/$repo/gi" \
-    README.md
+    README.md \
     Makefile \
     azure-pipelines.yml \
     bitbucket-pipelines.yml \
