@@ -36,9 +36,10 @@ if uname -s | grep -q Darwin; then
     }
 fi
 
-sed -i "s/Template-Repo/$repo/g" \
+sed -i "s/Template-Repo/$repo/gi" \
     README.md
     Makefile \
     azure-pipelines.yml \
     bitbucket-pipelines.yml \
-    sonar-project.properties
+    sonar-project.properties \
+    .github/workflows/*.y*ml
