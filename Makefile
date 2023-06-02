@@ -43,7 +43,7 @@ CODE_FILES := $(shell git ls-files | grep -E -e '\.sh$$' -e '\.py$$' | sort)
 .PHONY: build
 build: init
 	@echo ================
-	@echo Diagrams Builds
+	@echo Template-repo Builds
 	@echo ================
 	@$(MAKE) git-summary
 	@echo
