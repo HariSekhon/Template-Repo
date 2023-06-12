@@ -42,6 +42,7 @@
 [![Grype](https://github.com/HariSekhon/Template-Repo/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Template-Repo/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/sonarcloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml)
 
 
