@@ -45,3 +45,10 @@ sed -i "s/Template-Repo/$repo/gi" \
     bitbucket-pipelines.yml \
     sonar-project.properties \
     .github/workflows/*.y*ml
+
+# can't commit without the submodules checked out
+#
+#   error: 'bash-tools' does not have a commit checked out
+#   fatal: updating files failed
+#
+make init
