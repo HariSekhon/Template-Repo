@@ -59,6 +59,7 @@ build: init
 
 .PHONY: init
 init:
+	@echo
 	@echo "running init:"
 	git submodule update --init --recursive
 	@echo
