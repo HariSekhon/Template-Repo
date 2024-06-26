@@ -49,7 +49,9 @@ TODO: update Codacy grade link below - it's a hash so cannot be predicted to rep
 [![Trivy](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml)
 
 
-### PUT CONTENT HERE
+## PUT CONTENT HERE
+
+### Customize Repo in 1 Command
 
 Run this script to replace the repo name and workflow URL references across the configurations for CI/CD and
 other variety of files in this repo:
@@ -59,6 +61,8 @@ other variety of files in this repo:
 ```
 
 Then delete the script and edit this README.
+
+#### Ensure to update Codacy Grade link manually after adding this repo to Codacy since the link is a hash and therefore cannot be predicted for replacement by `./customize.sh`.
 
 ### See Also
 
