@@ -7,7 +7,9 @@
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
 
-[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
+TODO: update Codacy grade link below - it's a hash so cannot be predicted to replace via `./customize.sh`
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/abce2438224948fd93d462cd6aba3aaf)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Template-Repo/badge)](https://www.codefactor.io/repository/github/harisekhon/Template-Repo)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
