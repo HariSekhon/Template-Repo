@@ -47,8 +47,18 @@
 [![Trivy](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/trivy.yaml)
 
 
-PUT CONTENT HERE
+### PUT CONTENT HERE
 
+Run this script to replace the repo name and workflow URL references across the configurations for CI/CD and
+other variety of files in this repo:
+
+```shell
+./customize.sh <new_repo_name>
+```
+
+Then delete the script and edit this README.
+
+### See Also
 
 For tonnes of great free tech programs and scripts, see also:
 
