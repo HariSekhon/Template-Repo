@@ -40,7 +40,7 @@ TODO: update Codacy grade link below - it's a hash so cannot be predicted to rep
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Template-Repo)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Template-Repo)
 
-[![Markdown](https://github.com/HariSekhon/Template-repo/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Template-repo/actions/workflows/markdown.yaml)
+[![Markdown](https://github.com/HariSekhon/Template-Repo/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/Template-Repo/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Template-Repo/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Template-Repo/actions/workflows/grype.yaml)
