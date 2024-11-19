@@ -46,6 +46,9 @@ sed -i "s/Template-Repo/$repo/gi" \
     sonar-project.properties \
     .github/workflows/*.y*ml
 
+# revert the github-readme-stats card
+"$srcdir/bash-tools/git/git_revert_line.sh" README.md "github-readme-stats.vercel.app.*repo=$repo"
+
 # can't commit without the submodules checked out
 #
 #   error: 'bash-tools' does not have a commit checked out
