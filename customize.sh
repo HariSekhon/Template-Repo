@@ -45,7 +45,7 @@ sed -i "s/Template-Repo/$repo/gi" \
     bitbucket-pipelines.yml \
     sonar-project.properties \
     .github/workflows/*.y*ml \
-    .envrc*
+    $(find . -type -f -name '.*')
 
 # revert the github-readme-stats card
 "$srcdir/bash-tools/git/git_revert_line.sh" README.md "github-readme-stats.vercel.app.*repo=$repo"
