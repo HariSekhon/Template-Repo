@@ -58,6 +58,7 @@ Run this script to replace the repo name and workflow URL references across the 
 other variety of files in this repo:
 
 ```shell
+make init
 ./customize.sh <new_repo_name>
 ```
 
