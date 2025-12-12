@@ -55,4 +55,4 @@ sed -i "s/Template-Repo/$repo/gi" \
 #   error: 'bash-tools' does not have a commit checked out
 #   fatal: updating files failed
 #
-make init
+git submodule update --init
