@@ -48,7 +48,8 @@ sed -i "s/Template-Repo/$repo/gi" \
     $(find . -type f -name '.*')
 
 # revert the github-readme-stats card
-"$srcdir/bash-tools/git/git_revert_line.sh" README.md "github-readme-stats.vercel.app.*repo=$repo"
+"$srcdir/bash-tools/git/git_revert_line.sh" README.md "github-readme-stats.vercel.app.*repo=$repo" || :
+"$srcdir/bash-tools/git/git_revert_line.sh" README.md "github-readme-stats-fast.vercel.app.*repo=$repo" || :
 
 # can't commit without the submodules checked out
 #
